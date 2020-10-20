@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_re</folder>
+	<filename>2.jpg</filename>
+	<path>D:\holomb_projects\ocr\images_re\2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>44</ymin>
+			<xmax>759</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+</annotation>
