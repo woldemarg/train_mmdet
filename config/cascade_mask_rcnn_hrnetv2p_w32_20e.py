@@ -263,7 +263,7 @@ log_config = dict(
 total_epochs = 36
 dist_params = dict(backend='nccl')
 log_level = 'INFO'
-work_dir = None #'/content/drive/My Drive/Mmdetection/new_chunk_cascade_mask_rcnn_hrnetv2p_w32_20e'
+work_dir = 'model' #'/content/drive/My Drive/Mmdetection/new_chunk_cascade_mask_rcnn_hrnetv2p_w32_20e'
 load_from = 'https://drive.google.com/u/0/uc?id=1-QieHkR1Q7CXuBu4fp3rYrvDG9j26eFT'
 resume_from = None #'/content/drive/My Drive/Mmdetection/new_chunk_cascade_mask_rcnn_hrnetv2p_w32_20e/epoch_30.pth'
 workflow = [('train', 1)]
